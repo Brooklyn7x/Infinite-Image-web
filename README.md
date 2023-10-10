@@ -30,21 +30,21 @@ Instructions on how to set up and run project locally.
 
     bash
 
-- git clone https://github.com/Brooklyn7x/Infinite-Image-web/
+-> git clone https://github.com/Brooklyn7x/Infinite-Image-web/
 
 Navigate to the project directory:
 
 bash
 
-cd Infinite-Image-web
+-> cd Infinite-Image-web
 
 Install the project dependencies:
 
-npm install
+-> npm install
 
 Start the development server:
 
-npm start
+-> npm start
 
 Open your browser and go to http://localhost:3000 to view the application.
 
